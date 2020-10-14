@@ -1,6 +1,3 @@
-###个人信息
-####姓名：孟俊聪
-####学历：硕士研究生
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mengjuncong/http-mengjuncong.github.com-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
